@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "367278216578",
+    "firebase_url": "https://studentjourney-ae2bd-default-rtdb.firebaseio.com",
+    "project_id": "studentjourney-ae2bd",
+    "storage_bucket": "studentjourney-ae2bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367278216578:android:f11fa1f97ac16ff8cdab9b",
+        "android_client_info": {
+          "package_name": "com.example.drawer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKiG00Hs8efhAIb2GtadiU7Gk-07985Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367278216578:android:9f28a77fcada7a71cdab9b",
+        "android_client_info": {
+          "package_name": "com.example.test1234"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaKiG00Hs8efhAIb2GtadiU7Gk-07985Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
